@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FalconPRBSBERTest/1.0.0": {
+        "runtime": {
+          "FalconPRBSBERTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FalconPRBSBERTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

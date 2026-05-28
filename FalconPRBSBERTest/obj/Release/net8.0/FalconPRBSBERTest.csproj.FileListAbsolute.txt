@@ -1,0 +1,14 @@
+D:\bySean\FalconPRBSBERTest\FalconPRBSBERTest\bin\Release\net8.0\FalconPRBSBERTest.exe
+D:\bySean\FalconPRBSBERTest\FalconPRBSBERTest\bin\Release\net8.0\FalconPRBSBERTest.deps.json
+D:\bySean\FalconPRBSBERTest\FalconPRBSBERTest\bin\Release\net8.0\FalconPRBSBERTest.runtimeconfig.json
+D:\bySean\FalconPRBSBERTest\FalconPRBSBERTest\bin\Release\net8.0\FalconPRBSBERTest.dll
+D:\bySean\FalconPRBSBERTest\FalconPRBSBERTest\bin\Release\net8.0\FalconPRBSBERTest.pdb
+D:\bySean\FalconPRBSBERTest\FalconPRBSBERTest\obj\Release\net8.0\FalconPRBSBERTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\bySean\FalconPRBSBERTest\FalconPRBSBERTest\obj\Release\net8.0\FalconPRBSBERTest.AssemblyInfoInputs.cache
+D:\bySean\FalconPRBSBERTest\FalconPRBSBERTest\obj\Release\net8.0\FalconPRBSBERTest.AssemblyInfo.cs
+D:\bySean\FalconPRBSBERTest\FalconPRBSBERTest\obj\Release\net8.0\FalconPRBSBERTest.csproj.CoreCompileInputs.cache
+D:\bySean\FalconPRBSBERTest\FalconPRBSBERTest\obj\Release\net8.0\FalconPRBSBERTest.dll
+D:\bySean\FalconPRBSBERTest\FalconPRBSBERTest\obj\Release\net8.0\refint\FalconPRBSBERTest.dll
+D:\bySean\FalconPRBSBERTest\FalconPRBSBERTest\obj\Release\net8.0\FalconPRBSBERTest.pdb
+D:\bySean\FalconPRBSBERTest\FalconPRBSBERTest\obj\Release\net8.0\FalconPRBSBERTest.genruntimeconfig.cache
+D:\bySean\FalconPRBSBERTest\FalconPRBSBERTest\obj\Release\net8.0\ref\FalconPRBSBERTest.dll
