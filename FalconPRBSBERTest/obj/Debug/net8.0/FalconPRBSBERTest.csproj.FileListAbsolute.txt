@@ -1,0 +1,15 @@
+C:\Users\Sean\Documents\GitHub\FalconPRBSBERTest\FalconPRBSBERTest\bin\Debug\net8.0\FalconPRBSBERTest.exe
+C:\Users\Sean\Documents\GitHub\FalconPRBSBERTest\FalconPRBSBERTest\bin\Debug\net8.0\FalconPRBSBERTest.deps.json
+C:\Users\Sean\Documents\GitHub\FalconPRBSBERTest\FalconPRBSBERTest\bin\Debug\net8.0\FalconPRBSBERTest.runtimeconfig.json
+C:\Users\Sean\Documents\GitHub\FalconPRBSBERTest\FalconPRBSBERTest\bin\Debug\net8.0\FalconPRBSBERTest.dll
+C:\Users\Sean\Documents\GitHub\FalconPRBSBERTest\FalconPRBSBERTest\bin\Debug\net8.0\FalconPRBSBERTest.pdb
+C:\Users\Sean\Documents\GitHub\FalconPRBSBERTest\FalconPRBSBERTest\obj\Debug\net8.0\FalconPRBSBERTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sean\Documents\GitHub\FalconPRBSBERTest\FalconPRBSBERTest\obj\Debug\net8.0\FalconPRBSBERTest.AssemblyInfoInputs.cache
+C:\Users\Sean\Documents\GitHub\FalconPRBSBERTest\FalconPRBSBERTest\obj\Debug\net8.0\FalconPRBSBERTest.AssemblyInfo.cs
+C:\Users\Sean\Documents\GitHub\FalconPRBSBERTest\FalconPRBSBERTest\obj\Debug\net8.0\FalconPRBSBERTest.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Documents\GitHub\FalconPRBSBERTest\FalconPRBSBERTest\obj\Debug\net8.0\FalconPRBSBERTest.sourcelink.json
+C:\Users\Sean\Documents\GitHub\FalconPRBSBERTest\FalconPRBSBERTest\obj\Debug\net8.0\FalconPRBSBERTest.dll
+C:\Users\Sean\Documents\GitHub\FalconPRBSBERTest\FalconPRBSBERTest\obj\Debug\net8.0\refint\FalconPRBSBERTest.dll
+C:\Users\Sean\Documents\GitHub\FalconPRBSBERTest\FalconPRBSBERTest\obj\Debug\net8.0\FalconPRBSBERTest.pdb
+C:\Users\Sean\Documents\GitHub\FalconPRBSBERTest\FalconPRBSBERTest\obj\Debug\net8.0\FalconPRBSBERTest.genruntimeconfig.cache
+C:\Users\Sean\Documents\GitHub\FalconPRBSBERTest\FalconPRBSBERTest\obj\Debug\net8.0\ref\FalconPRBSBERTest.dll
